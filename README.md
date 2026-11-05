@@ -143,6 +143,4 @@ search about 4 times faster.
 - [Qwen3-0.6B model card](https://huggingface.co/Qwen/Qwen3-0.6B)
 - [Python Fire](https://github.com/google/python-fire), [pydantic](https://docs.pydantic.dev/), [uv](https://docs.astral.sh/uv/)
 
-**AI usage**: AI (Claude) was used to explain the subject, propose a file
-structure and write a first version of the code. All code was then read,
-tested and understood before submission.
+**AI usage**: AI (Claude) was used to explain the unknown notions, draft documentations, and test designs.
